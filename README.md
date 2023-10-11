@@ -30,6 +30,6 @@ Following libraries used in this project:
 ## Files
 
 - `market_basket_analysis_apriori.pynb`: Python script that performs Market Basket Analysis using the Apriori algorithm.
-- `groceries.csv`:  transaction dataset for the project.
+- `Groceries.csv`:  transaction dataset for the project.
 
 
