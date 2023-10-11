@@ -26,8 +26,6 @@ Following libraries used in this project:
 
 4. **Visualization**: Visualized the results using plots, such as scatter plots, bar charts, and heatmaps to better understand the relationships between items.
 
-5. **Interpretation**: Interpreted the generated association rules to gain insights into item relationships and identify actionable patterns.
-
 
 ## Files
 
